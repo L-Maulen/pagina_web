@@ -1,0 +1,1 @@
+Grid = malla para poner texto e imagen en un mismo cuadro
